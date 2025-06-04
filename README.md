@@ -1,4 +1,4 @@
-ToolBridgeRetrieval: Aligning Vague Instructions with Retriever
+ToolRetrievalBridge: Aligning Vague Instructions with Retriever
 Preferences via a Bridge Model
 ===========================
 
